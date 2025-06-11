@@ -6,5 +6,6 @@ public class Kilometers_to_Miles {
         double kilometers = sc.nextDouble();
         double miles = kilometers * 0.621371;
         System.out.println(kilometers + " kilometers is equal to " + miles + " miles.");
+        sc.close();
     }
 }
