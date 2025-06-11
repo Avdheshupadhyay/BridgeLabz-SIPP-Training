@@ -5,6 +5,6 @@ public class Kilometers_to_Miles {
         Scanner sc=new Scanner(System.in);
         double kilometers = sc.nextDouble();
         double miles = kilometers * 0.621371;
-        System.out.println(kilometers + " kilometers is equal to " + miles + " miles.");
+        System.out.println(kilometers + " kilometers = " + miles + " miles.");
     }
 }
