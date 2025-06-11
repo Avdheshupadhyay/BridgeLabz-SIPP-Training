@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class _6Simple_Interest {
+public class Simple_Interest {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double principal = scanner.nextDouble();

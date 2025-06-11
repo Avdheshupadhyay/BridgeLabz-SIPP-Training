@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class _2SumOftwoNumber{
+public class SumOftwoNumber{
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         int a = sc.nextInt();

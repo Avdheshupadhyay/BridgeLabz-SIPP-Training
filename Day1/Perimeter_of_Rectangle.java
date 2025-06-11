@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class _7Perimeter_of_Rectangle {
+public class Perimeter_of_Rectangle {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double length = scanner.nextDouble();

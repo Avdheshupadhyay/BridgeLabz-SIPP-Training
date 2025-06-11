@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class _8Powerr {
+public class Powerr {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double base = sc.nextDouble();
