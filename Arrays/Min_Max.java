@@ -21,7 +21,7 @@ public class Min_Max
 		        Largest=nums[i];
 		    }
 		    // Apply the condition  for Second Largest
-		    if(nums[i]>Second_Largest && nums[i]!=Largest){
+		    else if(nums[i]>Second_Largest && nums[i]!=Largest){
 		        Second_Largest=nums[i];
 		    }
 		}
