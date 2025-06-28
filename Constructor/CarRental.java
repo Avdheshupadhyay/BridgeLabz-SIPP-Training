@@ -14,7 +14,7 @@ public class CarRental {
         this.carModel = carModel;
         this.rentalDays = rentalDays;
     }
-
+ 
     public void display() {
         System.out.println("Customer: " + customerName + ", Car Model: " + carModel + ", Rental Days: " + rentalDays);
     }
