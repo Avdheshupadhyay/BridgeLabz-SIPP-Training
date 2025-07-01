@@ -1,84 +1,46 @@
-Welcome to my BridgeLabz-SIPP-Training repo!  
-This README serves as a central log of my daily progress across different topics, branches, and Java modules.  
-Each entry includes concepts covered, skills practiced, and links to the exact code in their respective branches.
+# 🚀 BridgeLabz SIPP Training – Java Learning Log
+
+Welcome to my **BridgeLabz SIPP Training** repository!  
+This repo serves as a comprehensive **daily progress tracker** where I document key **Java concepts**, **hands-on practices**, and include **direct links** to corresponding code for each session.
+
+> 🔍 Whether you're reviewing fundamentals or exploring advanced OOP principles, this log ensures organized and efficient learning navigation.
 
 ---
 
-## CORE-JAVA Branch 📂
+## 📚 Core Java Progress – `CORE-JAVA` Branch
 
-### 📅 09/06/25 (Mon) – Day 1 – Java Fundamentals  
-Topics: Introduction to Java, role of JDK, JRE, and JVM, writing the first program, variable types, and basic data types in Java  
-🔗 [Code](https://github.com/Avdheshupadhyay/BridgeLabz-SIPP-Training/tree/Core-Java/Java-Fundamentals)
-
----
-
-### 📅 10/06/25 (Tue) – Day 2 – Java Programming Elements  
-Topics: Arithmetic, relational, logical, bitwise, and assignment operators; type casting, precedence, associativity, and expression evaluation  
-🔗 [Code](https://github.com/Avdheshupadhyay/BridgeLabz-SIPP-Training/tree/Core-Java/Programming-Element)
-
----
-
-### 📅 11/06/25 (Wed) – Day 3 – Java Control Flow  
-Topics: Conditional statements (if, if-else, switch), and loops (for, while, do-while), along with nested control structures  
-🔗 [Code](https://github.com/Avdheshupadhyay/BridgeLabz-SIPP-Training/tree/Core-Java/Control-Flow)
+| 📅 Date       | 📌 Day | 📘 Topic                             | 🔗 Code Link |
+|--------------|--------|--------------------------------------|--------------|
+| 09/06/25 (Mon) | Day 1 | **Java Fundamentals**<br>Introduction to Java, JDK vs JRE vs JVM, basic data types, first Java program | [View Code](https://github.com/Avdheshupadhyay/BridgeLabz-SIPP-Training/tree/Core-Java/Java-Fundamentals) |
+| 10/06/25 (Tue) | Day 2 | **Java Programming Elements**<br>Operators, type casting, precedence, associativity | [View Code](https://github.com/Avdheshupadhyay/BridgeLabz-SIPP-Training/tree/Core-Java/Programming-Element) |
+| 11/06/25 (Wed) | Day 3 | **Control Flow**<br>Conditionals (if, switch), loops (for, while), nested structures | [View Code](https://github.com/Avdheshupadhyay/BridgeLabz-SIPP-Training/tree/Core-Java/Control-Flow) |
+| 12/06/25 (Thu) | Day 4 | **Arrays**<br>1D/2D arrays, traversal, sorting, searching, array-based logic | [View Code](https://github.com/Avdheshupadhyay/BridgeLabz-SIPP-Training/tree/Core-Java/Arrays) |
+| 13/06/25 (Fri) | Day 5 | **Methods**<br>Method creation, overloading, argument passing, return types | [View Code](https://github.com/Avdheshupadhyay/BridgeLabz-SIPP-Training/tree/Core-Java/Java-Methods) |
+| 16/06/25 (Mon) | Day 6 | **Strings**<br>String creation, comparison, common methods like `charAt`, `substring`, etc. | [View Code](https://github.com/Avdheshupadhyay/BridgeLabz-SIPP-Training/tree/Core-Java/String) |
+| 17–18/06/25 (Tue–Wed) | Day 7 | **Built-In Functions**<br>Java libraries: `Math`, `Arrays`, intro to `Collections` | [View Code](https://github.com/Avdheshupadhyay/BridgeLabz-SIPP-Training/tree/Core-Java/BuiltIn-Methods) |
+| 19/06/25 (Thu) | Day 8 | **String Handling**<br>Mutable vs immutable, `StringBuilder` vs `StringBuffer`, performance comparison | [View Code](https://github.com/Avdheshupadhyay/BridgeLabz-SIPP-Training/tree/Core-Java/String) |
 
 ---
 
-### 📅 12/06/25 (Thu) – Day 4 – Java Arrays  
-Topics: Declaring and initializing 1D and 2D arrays, array traversal using loops, searching and sorting elements, and array-based problem solving  
-🔗 [Code](https://github.com/Avdheshupadhyay/BridgeLabz-SIPP-Training/tree/Core-Java/Arrays)
+## 🧱 Object-Oriented Programming – `OOP-Java` Branch
+
+| 📅 Date       | 📌 Day | 📘 Topic                             | 🔗 Code Link |
+|--------------|--------|--------------------------------------|--------------|
+| 20/06/25 (Fri) | Day 1 | **Classes & Objects**<br>Class definition, object creation, encapsulation, real-world modeling | [View Code](https://github.com/Avdheshupadhyay/BridgeLabz-SIPP-Training/tree/OOP-Java/Classes%26Object) |
+| 23/06/25 (Mon) | Day 2 | **Constructors & Modifiers**<br>Types of constructors, `this` keyword, static vs instance variables, access control | [View Code](https://github.com/Avdheshupadhyay/BridgeLabz-SIPP-Training/tree/OOP-Java/Constructor) |
+| 24/06/25 (Tue) | Day 3 | **Java Keywords**<br>Deep dive into `static`, `final`, `this`, and `instanceof` with real examples | [View Code](https://github.com/Avdheshupadhyay/BridgeLabz-SIPP-Training/tree/OOP-Java/Java-Keywords) |
+| 25/06/25 (Tue) | Day 4 | **UML Diagrams & Object Modeling**<br>Class diagrams, aggregation, composition | *Coming Soon* |
 
 ---
 
-### 📅 13/06/25 (Fri) – Day 5 – Java Methods  
-Topics: Creating reusable methods, method overloading, returning values, and passing arguments (by value), plus real-world use cases  
-🔗 [Code](https://github.com/Avdheshupadhyay/BridgeLabz-SIPP-Training/tree/Core-Java/Java-Methods)
+## 🧾 Notes
+
+- Every topic has its **dedicated folder** inside the relevant **Git branch**.
+- This README serves as the **navigation hub** to explore code, track learning, and reflect progress over time.
+- Consistent naming and date-based entries help keep this repo well-structured and scalable for future additions.
 
 ---
 
-### 📅 16/06/25 (Mon) – Day 6 – Java Strings  
-Topics: Understanding String class, string creation, comparing strings, common string methods (charAt, substring, indexOf, etc.)  
-🔗 [Code](https://github.com/Avdheshupadhyay/BridgeLabz-SIPP-Training/tree/Core-Java/String)
+## 🙌 Let's Connect
+If you find this helpful or have any suggestions, feel free to [connect with me on GitHub](https://github.com/Avdheshupadhyay)!
 
----
-
-### 📅 17/06/25 - 18/06/25 (Tue - Wed) – Day 7 – Java Built-In Functions  
-Topics: Working with built-in Java libraries: Math (rounding, powers, roots), Arrays utility class, and basic intro to Collections  
-🔗 [Code](https://github.com/Avdheshupadhyay/BridgeLabz-SIPP-Training/tree/Core-Java/BuiltIn-Methods)
-
----
-
-### 📅 19/06/25 (Thu) – Day 8 – Java String Handling  
-Topics: Mutable vs immutable strings, StringBuilder & StringBuffer, performance comparison, string reversal and manipulation  
-🔗 [Code](https://github.com/Avdheshupadhyay/BridgeLabz-SIPP-Training/tree/Core-Java/String)
-
----
-
-## OOPS Branch 🧱
-
-### 📅 20/06/25 (Fri) – Day 1 – Classes & Objects  
-Topics: Defining classes, creating objects, class structure, encapsulating data, real-world object modeling in Java  
-🔗 [Code](https://github.com/Avdheshupadhyay/BridgeLabz-SIPP-Training/tree/OOP-Java/Classes%26Object)
-
----
-
-### 📅 23/06/25 (Mon) – Day 2 – Constructors, Variables, Modifiers  
-Topics: Constructor types (default, parameterized, overloaded), use of this keyword, instance vs static variables, and access modifiers  
-🔗 [Code](https://github.com/Avdheshupadhyay/BridgeLabz-SIPP-Training/tree/OOP-Java/Constructor)
-
----
-
-### 📅 24/06/25 (Tue) – Day 3 – Java Keywords  
-Topics: Deep dive into important Java keywords: static, final, this, and instanceof, with practical examples for each  
-🔗 [Code](https://github.com/Avdheshupadhyay/BridgeLabz-SIPP-Training/tree/OOP-Java/Java-Keywords)
-
----
-
-### 📅 25/06/25 (Tue) – Day 4 – Diagrams & Modelling  
-Topics: Object-oriented modeling, designing class diagrams using UML, understanding relationships like aggregation and composition  
-🔗 [Code]()
-
----
-
-## 📝 Note:
-Each topic’s code is organized in its dedicated branch — but this main README connects everything.
