@@ -12,7 +12,6 @@ This repo serves as a comprehensive **daily progress tracker** where I document 
 | 📅 Date       | 📌 Day | 📘 Topic                             | 🔗 Code Link |
 |--------------|--------|--------------------------------------|--------------|
 | 09/06/25 (Mon) | Day 1 | **Java Fundamentals**<br>Introduction to Java, JDK vs JRE vs JVM, basic data types, first Java program | [View Code](https://github.com/Avdheshupadhyay/BridgeLabz-SIPP-Training/tree/Core-Java/Java-Fundamentals) |
-
 | 10/06/25 (Tue) | Day 2 | **Java Programming Elements**<br>Operators, type casting, precedence, associativity | [View Code](https://github.com/Avdheshupadhyay/BridgeLabz-SIPP-Training/tree/Core-Java/Programming-Element) |
 | 11/06/25 (Wed) | Day 3 | **Control Flow**<br>Conditionals (if, switch), loops (for, while), nested structures | [View Code](https://github.com/Avdheshupadhyay/BridgeLabz-SIPP-Training/tree/Core-Java/Control-Flow) |
 | 12/06/25 (Thu) | Day 4 | **Arrays**<br>1D/2D arrays, traversal, sorting, searching, array-based logic | [View Code](https://github.com/Avdheshupadhyay/BridgeLabz-SIPP-Training/tree/Core-Java/Arrays) |
